@@ -1,0 +1,11 @@
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio15-03-2022-Areadoperimetro\Exercicio15-03-2022-Areadoperimetro\bin\Debug\Exercicio15-03-2022-Areadoperimetro.exe.config
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio15-03-2022-Areadoperimetro\Exercicio15-03-2022-Areadoperimetro\bin\Debug\Exercicio15-03-2022-Areadoperimetro.exe
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio15-03-2022-Areadoperimetro\Exercicio15-03-2022-Areadoperimetro\bin\Debug\Exercicio15-03-2022-Areadoperimetro.pdb
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio15-03-2022-Areadoperimetro\Exercicio15-03-2022-Areadoperimetro\obj\Debug\Areadoperimetro.csproj.AssemblyReference.cache
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio15-03-2022-Areadoperimetro\Exercicio15-03-2022-Areadoperimetro\obj\Debug\Areadoperimetro.csproj.SuggestedBindingRedirects.cache
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio15-03-2022-Areadoperimetro\Exercicio15-03-2022-Areadoperimetro\obj\Debug\Exercicio15_03_2022_Areadoperimetro.Form1.resources
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio15-03-2022-Areadoperimetro\Exercicio15-03-2022-Areadoperimetro\obj\Debug\Exercicio15_03_2022_Areadoperimetro.Properties.Resources.resources
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio15-03-2022-Areadoperimetro\Exercicio15-03-2022-Areadoperimetro\obj\Debug\Areadoperimetro.csproj.GenerateResource.cache
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio15-03-2022-Areadoperimetro\Exercicio15-03-2022-Areadoperimetro\obj\Debug\Areadoperimetro.csproj.CoreCompileInputs.cache
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio15-03-2022-Areadoperimetro\Exercicio15-03-2022-Areadoperimetro\obj\Debug\Exercicio15-03-2022-Areadoperimetro.exe
+D:\Athon - Atividades\Desenvolvimento de Aplicações Locais\Exercicio15-03-2022-Areadoperimetro\Exercicio15-03-2022-Areadoperimetro\obj\Debug\Exercicio15-03-2022-Areadoperimetro.pdb
